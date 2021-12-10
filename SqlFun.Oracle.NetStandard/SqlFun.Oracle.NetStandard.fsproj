@@ -14,7 +14,7 @@
     <Compile Include="..\SqlFun.Oracle\Oracle.fs" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="FSharp.Core" Version="4.7.2" />
+    <PackageReference Update="FSharp.Core" Version="4.7.2" />
     <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="2.19.130" />
   </ItemGroup>
   <ItemGroup>
